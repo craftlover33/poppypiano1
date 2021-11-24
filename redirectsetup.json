@@ -5,22 +5,16 @@
    
    "moreApp": [
 		{
-			"Name": "",
-			"Description": "",
-			"URLPlaystore": "",
-			"URLImage": ""
-		},
-	   	{
-			"Name": "",
-			"Description": "",
-			"URLPlaystore": "",
-			"URLImage": ""
+			"Name": "FNF Piano Master Tiles",
+			"Description": "This aplication is about playing music of FNF with piano, you can play piano tiles with best songs and popular song of FNF.",
+			"URLPlaystore": "https://play.google.com/store/apps/details?id=com.pianyzy.fnfpianotiles",
+			"URLImage": "https://raw.githubusercontent.com/craftlover33/iconpianodev1/main/iconfnfpiano1.png"
 		},
 		{
-			"Name": "",
-			"Description": "",
-			"URLPlaystore": "",
-			"URLImage": ""
+			"Name": "Lady Diana Piano Tiles Master",
+			"Description": "If you are a fan of Lady Diana, you can play piano tiles with all songs Lady Diana, playing popular songs with piano.",
+			"URLPlaystore": "https://play.google.com/store/apps/details?id=com.pianyzy.ladydianapianotiles",
+			"URLImage": "https://raw.githubusercontent.com/craftlover33/iconpianodev1/main/iconladydianapiano1.png"
 		},
 		{
 			"Name": "",
